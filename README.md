@@ -1,5 +1,8 @@
-datavis
+dtools
 =======
+
+- dgen - data generator
+- dvis - data visualisator
 
 very simple fast and magic dataset analyzer. give you a direction about data distributions
 
