@@ -3,6 +3,7 @@ var dgen = require("./dgen");
 var argv = process.argv;
 var count = argv[2];
 
+
 // Arithmetic sequence accepts start and step as a constructor parameters
 var period = new dgen.seqs.Arithmetic(0, Math.PI * 2 / 25)
 	.setMap(Math.sin);
